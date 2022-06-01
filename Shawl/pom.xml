@@ -6,15 +6,7 @@
   <packaging>war</packaging>
   <name>addShawl</name>
   <description>lab</description>
-  
-  <repositories>
-  	<repository>
-  	<id>webapp-runner-repo</id>
-  	<name>webapp runner repository on GitHub</name>
-  	<url>https://github.com/AmiraMuhamad/shawl.git/webapp-runner/repository/</url>
-  	</repository>
-  </repositories>
-  
+ 
   <build>
     <plugins>
       <plugin>
